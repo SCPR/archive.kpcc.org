@@ -1,0 +1,509 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>KPCC News</title>
+    <link>http://www.kpcc.org</link>
+    <atom:link href="http://www.kpcc.org" rel="alternate"/>
+    <atom:link href="https://www.scpr.org/podcasts/news" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>The latest news stories from 89.3 KPCC, Southern California Public Radio.</description>
+    <image>
+      <url>https://media.scpr.org/assets/images/podcasts/kpcc-podcast-cover-news.jpg</url>
+      <title>KPCC News</title>
+      <link>http://www.kpcc.org</link>
+    </image>
+    <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+    <itunes:summary>The latest news stories from 89.3 KPCC, Southern California Public Radio.</itunes:summary>
+    <itunes:category text="News &amp; Politics"/>
+    <itunes:owner>
+      <itunes:name>KPCC 89.3 | Southern California Public Radio</itunes:name>
+      <itunes:email>contact@kpcc.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media.scpr.org/assets/images/podcasts/kpcc-podcast-cover-news.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>There's A March On Washington For Voting Rights. Here's What Is Holding Up Action</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Activists marching on Saturday want federal legislation to fight new rules in Republican-led states that they say make it harder to vote. The House passed one major bill this week.</itunes:summary>
+      <description>Activists marching on Saturday want federal legislation to fight new rules in Republican-led states that they say make it harder to vote. The House passed one major bill this week.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/27/99003/there-s-a-march-on-washington-for-voting-rights-he/</guid>
+      <pubDate>Fri, 27 Aug 2021 11:20:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/27/99003/there-s-a-march-on-washington-for-voting-rights-he/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210827_me_theres_a_march_on_washington_for_voting_rights_heres_what_is_holding_up_action.mp3?orgId=1&amp;topicId=1014&amp;d=252&amp;p=3&amp;story=1031379684&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4043800" type="audio/mpeg"/>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
+      <title>He Hiked 2,100 Miles In 209 Days To Complete The Appalachian Trail. He's Only 5</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>At 5-years-old, Harvey Sutton - also known on the trail as "Little Man" - is one of the youngest persons known to have completed the roughly 2,100-mile hike.</itunes:summary>
+      <description>At 5-years-old, Harvey Sutton - also known on the trail as "Little Man" - is one of the youngest persons known to have completed the roughly 2,100-mile hike.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/25/98984/he-hiked-2-100-miles-in-209-days-to-complete-the-a/</guid>
+      <pubDate>Wed, 25 Aug 2021 18:20:07 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/25/98984/he-hiked-2-100-miles-in-209-days-to-complete-the-a/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210823_me_hr2_return-si.mp3?orgId=1&amp;topicId=1164&amp;d=28&amp;story=1030924211&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="458546" type="audio/mpeg"/>
+      <itunes:duration>28</itunes:duration>
+    </item>
+    <item>
+      <title>A Vaccine For Children Is Not Likely To Be Approved Until The End Of Year</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The director of the National Institutes of Health, Dr. Francis Collins, says that after vaccine companies submit their trial data, the FDA will have to review it, which could take time. </itunes:summary>
+      <description>The director of the National Institutes of Health, Dr. Francis Collins, says that after vaccine companies submit their trial data, the FDA will have to review it, which could take time. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/24/98973/a-vaccine-for-children-is-not-likely-to-be-approve/</guid>
+      <pubDate>Tue, 24 Aug 2021 19:00:13 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/24/98973/a-vaccine-for-children-is-not-likely-to-be-approve/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210824_me_nih_director_on_pfizer_vaccine_fda_approval.mp3?orgId=1&amp;topicId=1013&amp;d=404&amp;story=1030611406&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="6475904" type="audio/mpeg"/>
+      <itunes:duration>404</itunes:duration>
+    </item>
+    <item>
+      <title>The CIA Chief And Taliban Leader Meet As Taliban Hold Firm Against Extending Deadline </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The talks between CIA Director William Burns and Taliban leader Mullah Abdul Ghani Baradar come as an Aug. 31 deadline looms for the end of the U.S. airlift and withdrawal of U.S. forces.</itunes:summary>
+      <description>The talks between CIA Director William Burns and Taliban leader Mullah Abdul Ghani Baradar come as an Aug. 31 deadline looms for the end of the U.S. airlift and withdrawal of U.S. forces.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/24/98968/the-cia-chief-and-taliban-leader-meet-as-taliban-h/</guid>
+      <pubDate>Tue, 24 Aug 2021 15:40:08 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/24/98968/the-cia-chief-and-taliban-leader-meet-as-taliban-h/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210824_me_cia_director_meets_with_taliban.mp3?orgId=1&amp;topicId=1122&amp;d=255&amp;p=3&amp;story=1030601056&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4083088" type="audio/mpeg"/>
+      <itunes:duration>255</itunes:duration>
+    </item>
+    <item>
+      <title>Here's What A Taliban-Controlled Afghanistan May Mean For China</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>What Beijing has offered the Taliban so far is an open hand and a hint of legitimacy. Taliban leaders have pledged to leave Chinese interests alone and not to harbor anti-China extremist groups.</itunes:summary>
+      <description>What Beijing has offered the Taliban so far is an open hand and a hint of legitimacy. Taliban leaders have pledged to leave Chinese interests alone and not to harbor anti-China extremist groups.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/23/98964/here-s-what-a-taliban-controlled-afghanistan-may-m/</guid>
+      <pubDate>Mon, 23 Aug 2021 22:20:08 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/23/98964/here-s-what-a-taliban-controlled-afghanistan-may-m/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210823_atc_heres_what_a_taliban-controlled_afghanistan_may_mean_for_china.mp3?orgId=1&amp;topicId=1004&amp;d=230&amp;p=2&amp;story=1029622154&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3681011" type="audio/mpeg"/>
+      <itunes:duration>230</itunes:duration>
+    </item>
+    <item>
+      <title>The Taliban's Rise Is Complicating Biden's Efforts To Close Guantánamo's Prison</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Afghanistan's fall and the Taliban's resurgence have raised fears that if President Biden releases additional Guantánamo prisoners, they may join the militant group or return to the battlefield. </itunes:summary>
+      <description>Afghanistan's fall and the Taliban's resurgence have raised fears that if President Biden releases additional Guantánamo prisoners, they may join the militant group or return to the battlefield. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/23/98958/the-taliban-s-rise-is-complicating-biden-s-efforts/</guid>
+      <pubDate>Mon, 23 Aug 2021 17:20:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/23/98958/the-taliban-s-rise-is-complicating-biden-s-efforts/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210823_me_the_return_of_the_taliban_complicates_prisoner_releases_at_guantanamo_bay.mp3?orgId=1&amp;topicId=1150&amp;d=292&amp;story=1030177682&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4672828" type="audio/mpeg"/>
+      <itunes:duration>292</itunes:duration>
+    </item>
+    <item>
+      <title>Pfizer's COVID Vaccine Gets Full Approval From The FDA</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The approval replaces the emergency use authorizations granted last December and could make it easier for employers, the military and universities to mandate vaccination.</itunes:summary>
+      <description>The approval replaces the emergency use authorizations granted last December and could make it easier for employers, the military and universities to mandate vaccination.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/23/98956/pfizer-s-covid-vaccine-gets-full-approval-from-the/</guid>
+      <pubDate>Mon, 23 Aug 2021 16:00:15 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/23/98956/pfizer-s-covid-vaccine-gets-full-approval-from-the/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210823_me_pfizer_approval.mp3?orgId=1&amp;topicId=1128&amp;aggIds=812054919&amp;d=219&amp;p=3&amp;story=1030251410&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3517171" type="audio/mpeg"/>
+      <itunes:duration>219</itunes:duration>
+    </item>
+    <item>
+      <title>Opinion: Numb From Afghanistan's Losses </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Host Scott Simon shares the reaction of Zalmai Yawar, an Afghan who first served as a translator for NPR 20 years ago, to the country's return to Taliban control. Yawar now lives in the U.S.</itunes:summary>
+      <description>Host Scott Simon shares the reaction of Zalmai Yawar, an Afghan who first served as a translator for NPR 20 years ago, to the country's return to Taliban control. Yawar now lives in the U.S.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/21/98940/opinion-numb-from-afghanistan-s-losses/</guid>
+      <pubDate>Sat, 21 Aug 2021 14:40:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/21/98940/opinion-numb-from-afghanistan-s-losses/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2021/08/20210821_wesat_opinion_numb_from_afghanistans_losses_.mp3?orgId=1&amp;topicId=1057&amp;aggIds=4495795&amp;d=166&amp;p=7&amp;story=1029905391&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2669550" type="audio/mpeg"/>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
+      <title>Mike Richards Resigns As Host Of Jeopardy! </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Richards has been scrutinized over earlier allegations of a hostile work environment, as well as inappropriate comments he allegedly made about women on a podcast that he once hosted.</itunes:summary>
+      <description>Richards has been scrutinized over earlier allegations of a hostile work environment, as well as inappropriate comments he allegedly made about women on a podcast that he once hosted.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/20/98931/mike-richards-resigns-as-host-of-jeopardy/</guid>
+      <pubDate>Fri, 20 Aug 2021 16:40:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/20/98931/mike-richards-resigns-as-host-of-jeopardy/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210820_me_jeopardys_new_host_steps_down.mp3?orgId=1&amp;topicId=1008&amp;d=207&amp;p=3&amp;story=1029650746&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3320312" type="audio/mpeg"/>
+      <itunes:duration>207</itunes:duration>
+    </item>
+    <item>
+      <title>The Sacklers Want Immunity From The Opioid Crisis For A Long List Of Their Associates</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>In the Purdue Pharma bankruptcy trial now underway, scrutiny has focused on the Sacklers' demand for immunity from opioid lawsuits that would extend to a vast network of individuals and businesses.</itunes:summary>
+      <description>In the Purdue Pharma bankruptcy trial now underway, scrutiny has focused on the Sacklers' demand for immunity from opioid lawsuits that would extend to a vast network of individuals and businesses.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/20/98929/the-sacklers-want-immunity-from-the-opioid-crisis/</guid>
+      <pubDate>Fri, 20 Aug 2021 11:20:14 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/20/98929/the-sacklers-want-immunity-from-the-opioid-crisis/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210820_me_the_sacklers_want_immunity_from_the_opioid_crisis_for_a_long_list_of_their_associates.mp3?orgId=1&amp;topicId=1003&amp;d=209&amp;p=3&amp;story=1028761427&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3348316" type="audio/mpeg"/>
+      <itunes:duration>209</itunes:duration>
+    </item>
+    <item>
+      <title>A Texas Lab Performs Crucial Testing For Pfizer's COVID Vaccine</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The lab has access to a high-security facility that Pfizer needed to prove its COVID-19 vaccine was working. Now the scientists there are testing the vaccine's effectiveness against viral variants.</itunes:summary>
+      <description>The lab has access to a high-security facility that Pfizer needed to prove its COVID-19 vaccine was working. Now the scientists there are testing the vaccine's effectiveness against viral variants.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/20/98928/a-texas-lab-performs-crucial-testing-for-pfizer-s/</guid>
+      <pubDate>Fri, 20 Aug 2021 11:20:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/20/98928/a-texas-lab-performs-crucial-testing-for-pfizer-s/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210820_me_a_texas_lab_performs_crucial_testing_for_pfizers_covid_vaccine.mp3?orgId=1&amp;topicId=1128&amp;d=380&amp;p=3&amp;story=1029449984&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="6081769" type="audio/mpeg"/>
+      <itunes:duration>380</itunes:duration>
+    </item>
+    <item>
+      <title>Afghanistan's Health Care Is In 'Limbo' Following Taliban Takeover, Says MSF Rep</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Filipe Ribeiro of Doctors Without Borders Afghanistan talks to NPR about the future of the country's health care system under Taliban rule.</itunes:summary>
+      <description>Filipe Ribeiro of Doctors Without Borders Afghanistan talks to NPR about the future of the country's health care system under Taliban rule.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/19/98927/afghanistan-s-health-care-is-in-limbo-following-ta/</guid>
+      <pubDate>Fri, 20 Aug 2021 00:00:07 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/19/98927/afghanistan-s-health-care-is-in-limbo-following-ta/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210819_atc_msf_afghanistan_qa_with_mary_louise_kelly.mp3?orgId=1&amp;topicId=1031&amp;d=270&amp;p=2&amp;story=1029363837&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4331774" type="audio/mpeg"/>
+      <itunes:duration>270</itunes:duration>
+    </item>
+    <item>
+      <title>Bats Love To Babble — Just Like Humans</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>New research finds that sac-winged bat pups — a species of bat found in Central and South America — like to "babble" in ways that are remarkably similar to human babies.  </itunes:summary>
+      <description>New research finds that sac-winged bat pups — a species of bat found in Central and South America — like to "babble" in ways that are remarkably similar to human babies.  </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/19/98925/bats-love-to-babble-just-like-humans/</guid>
+      <pubDate>Thu, 19 Aug 2021 23:00:08 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/19/98925/bats-love-to-babble-just-like-humans/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210819_atc_why_babies_and_baby_bats_babble_.mp3?orgId=1&amp;topicId=1007&amp;d=175&amp;p=2&amp;story=1029343443&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2809566" type="audio/mpeg"/>
+      <itunes:duration>175</itunes:duration>
+    </item>
+    <item>
+      <title>The Phone Call That Made An Afghan Woman Doctor Flee</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>She practiced medicine in Mazar-e-Sharif. She wanted to serve her country. Her story offers a window into what the Taliban takeover may hold for Afghanistan's women.</itunes:summary>
+      <description>She practiced medicine in Mazar-e-Sharif. She wanted to serve her country. Her story offers a window into what the Taliban takeover may hold for Afghanistan's women.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/19/98923/the-phone-call-that-made-an-afghan-woman-doctor-fl/</guid>
+      <pubDate>Thu, 19 Aug 2021 21:20:14 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/19/98923/the-phone-call-that-made-an-afghan-woman-doctor-fl/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210818_atc_afghan_gynecologist_says_she_fled_country_because_the_taliban_sent_her_death_threats.mp3?orgId=1&amp;topicId=1031&amp;d=243&amp;story=1029000262&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3859480" type="audio/mpeg"/>
+      <itunes:duration>243</itunes:duration>
+    </item>
+    <item>
+      <title>Tight Supply Of Truckers Leaves A Few Gas Stations Dry</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>There's no shortage of gasoline — but a few stations have still run dry, because it's hard to find qualified truck drivers who can move the fuel around. The high demand is pushing driver pay up.</itunes:summary>
+      <description>There's no shortage of gasoline — but a few stations have still run dry, because it's hard to find qualified truck drivers who can move the fuel around. The high demand is pushing driver pay up.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/18/98900/tight-supply-of-truckers-leaves-a-few-gas-stations/</guid>
+      <pubDate>Wed, 18 Aug 2021 11:20:12 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/18/98900/tight-supply-of-truckers-leaves-a-few-gas-stations/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210818_me_tight_supply_of_truckers_leaves_a_few_gas_stations_dry.mp3?orgId=1&amp;topicId=1006&amp;aggIds=1017985033&amp;d=227&amp;p=3&amp;story=1028108776&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3637961" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+    </item>
+    <item>
+      <title>Opening Statements Are Slated For Wednesday In R. Kelly Federal Trial</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The charges that R. Kelly faces in New York include racketeering "to prey upon young women and teenagers," and sexually trafficking these girls and women between states.</itunes:summary>
+      <description>The charges that R. Kelly faces in New York include racketeering "to prey upon young women and teenagers," and sexually trafficking these girls and women between states.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/18/98899/opening-statements-are-slated-for-wednesday-in-r-k/</guid>
+      <pubDate>Wed, 18 Aug 2021 11:20:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/18/98899/opening-statements-are-slated-for-wednesday-in-r-k/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210818_me_opening_arguments_slated_for_wednesday_in_r_kelly_federal_trial.mp3?orgId=1&amp;topicId=1070&amp;d=217&amp;p=3&amp;story=1028498152&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3479555" type="audio/mpeg"/>
+      <itunes:duration>217</itunes:duration>
+    </item>
+    <item>
+      <title>Opinion: Remembering NPR's Neal Conan </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Neal Conan, who died Aug. 10, hosted NPR's &lt;em&gt;Talk of the Nation&lt;/em&gt; with "immaculate knowledge of all subjects, arcane and obvious, and exquisite courtesy with callers and guests," NPR's Scott Simon says.</itunes:summary>
+      <description>Neal Conan, who died Aug. 10, hosted NPR's &lt;em&gt;Talk of the Nation&lt;/em&gt; with "immaculate knowledge of all subjects, arcane and obvious, and exquisite courtesy with callers and guests," NPR's Scott Simon says.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/14/98874/opinion-remembering-npr-s-neal-conan/</guid>
+      <pubDate>Sat, 14 Aug 2021 14:20:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/14/98874/opinion-remembering-npr-s-neal-conan/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2021/08/20210814_wesat_opinion_remembering_nprs_neal_conan_.mp3?orgId=1&amp;topicId=1057&amp;aggIds=4495795&amp;d=145&amp;p=7&amp;story=1027627114&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2333511" type="audio/mpeg"/>
+      <itunes:duration>145</itunes:duration>
+    </item>
+    <item>
+      <title>Detainees Say ICE Is Not Protecting Them From COVID-19. ICE Says It Follows Protocols</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>"Many people had coronavirus," says asylum seeker Raudel, adding there's little social distancing or mask wearing, and sick and healthy people are mixed. ICE denies this but cases doubled since June.</itunes:summary>
+      <description>"Many people had coronavirus," says asylum seeker Raudel, adding there's little social distancing or mask wearing, and sick and healthy people are mixed. ICE denies this but cases doubled since June.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/13/98852/detainees-say-ice-is-not-protecting-them-from-covi/</guid>
+      <pubDate>Fri, 13 Aug 2021 11:20:05 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/13/98852/detainees-say-ice-is-not-protecting-them-from-covi/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210813_me_detainees_say_ice_is_not_protecting_them_from_covid-19_ice_says_it_follows_protocols.mp3?orgId=711&amp;topicId=1128&amp;d=237&amp;p=3&amp;story=1027095025&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3793024" type="audio/mpeg"/>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
+      <title>Non-Compete Agreements Are Everywhere, Even Neighborhood Yoga Studios</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Yoga studios are among the businesses that use non-compete agreements to protect their interests. Yoga teachers say they are unfair and should be done away with.</itunes:summary>
+      <description>Yoga studios are among the businesses that use non-compete agreements to protect their interests. Yoga teachers say they are unfair and should be done away with.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/13/98851/non-compete-agreements-are-everywhere-even-neighbo/</guid>
+      <pubDate>Fri, 13 Aug 2021 11:00:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/13/98851/non-compete-agreements-are-everywhere-even-neighbo/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210811_me_why_noncompetes_have_some_yoga_instructors_off_balance.mp3?orgId=1&amp;topicId=1006&amp;d=294&amp;story=1025908992&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4715460" type="audio/mpeg"/>
+      <itunes:duration>294</itunes:duration>
+    </item>
+    <item>
+      <title>Once A Titan Of N.Y. Politics, Gov. Cuomo Toppled By Sex Harassment Scandal</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>New York Gov. Andrew Cuomo was under intense pressure to step down after the state attorney general released an exhaustive report detailing multiple allegations of sexual harassment.</itunes:summary>
+      <description>New York Gov. Andrew Cuomo was under intense pressure to step down after the state attorney general released an exhaustive report detailing multiple allegations of sexual harassment.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/11/98830/once-a-titan-of-n-y-politics-gov-cuomo-toppled-by/</guid>
+      <pubDate>Wed, 11 Aug 2021 12:20:08 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/11/98830/once-a-titan-of-n-y-politics-gov-cuomo-toppled-by/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210811_me_once_a_titan_of_ny_politics_gov_cuomo_toppled_by_sex_harassment_scandal.mp3?orgId=1&amp;topicId=1003&amp;d=240&amp;p=3&amp;story=973992667&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3847359" type="audio/mpeg"/>
+      <itunes:duration>240</itunes:duration>
+    </item>
+    <item>
+      <title>The CDC Said The Delta Variant Is As Contagious As Chickenpox. That's Not Accurate</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>A leaked document compared it to the highly contagious children's disease. Data does not support this claim. Nonetheless, the delta variant is likely the world's most contagious respiratory disease.</itunes:summary>
+      <description>A leaked document compared it to the highly contagious children's disease. Data does not support this claim. Nonetheless, the delta variant is likely the world's most contagious respiratory disease.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/11/98829/the-cdc-said-the-delta-variant-is-as-contagious-as/</guid>
+      <pubDate>Wed, 11 Aug 2021 11:40:05 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/11/98829/the-cdc-said-the-delta-variant-is-as-contagious-as/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210811_me_the_cdc_said_the_delta_variant_is_as_contagious_as_chickenpox_thats_not_accurate.mp3?orgId=1&amp;topicId=1031&amp;aggIds=885304437&amp;d=199&amp;p=3&amp;story=1026190062&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3200358" type="audio/mpeg"/>
+      <itunes:duration>199</itunes:duration>
+    </item>
+    <item>
+      <title>Workers Are Getting Pay Raises And It Could End Up Contributing To High Inflation</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Consumer prices are expected to have remained high in July in data due out on Wednesday. Here's one thing to watch going forward: How rising wages impacts inflation.</itunes:summary>
+      <description>Consumer prices are expected to have remained high in July in data due out on Wednesday. Here's one thing to watch going forward: How rising wages impacts inflation.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/11/98827/workers-are-getting-pay-raises-and-it-could-end-up/</guid>
+      <pubDate>Wed, 11 Aug 2021 11:00:12 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/11/98827/workers-are-getting-pay-raises-and-it-could-end-up/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210810_atc_inflation_and_wages.mp3?orgId=1&amp;topicId=1017&amp;aggIds=812054919&amp;d=227&amp;p=2&amp;story=1026493316&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3632904" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+    </item>
+    <item>
+      <title>Some Republicans Blame Migrants For COVID-19 Surges. Doctors Say They're Scapegoating</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Some Republicans are blaming the latest surge in COVID-19 cases on migrants crossing the southern border. But many doctors disagree, saying the politicians are just looking to divert attention. </itunes:summary>
+      <description>Some Republicans are blaming the latest surge in COVID-19 cases on migrants crossing the southern border. But many doctors disagree, saying the politicians are just looking to divert attention. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/10/98824/some-republicans-blame-migrants-for-covid-19-surge/</guid>
+      <pubDate>Tue, 10 Aug 2021 21:00:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/10/98824/some-republicans-blame-migrants-for-covid-19-surge/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210809_atc_doctors_say_migrants_havent_sparked_a_surge_in_covid-19_like_republicans_claim.mp3?orgId=1&amp;topicId=1003&amp;d=223&amp;story=1026178171&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3570670" type="audio/mpeg"/>
+      <itunes:duration>223</itunes:duration>
+    </item>
+    <item>
+      <title>Alabama Just Tossed 65,000 Vaccines. Turns Out It's Not Easy To Donate Unused Doses</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Alabama is one of the states throwing away COVID-19 doses as they expire. But other nations desperately need vaccines — and public health experts would like to see vaccines used instead of wasted.</itunes:summary>
+      <description>Alabama is one of the states throwing away COVID-19 doses as they expire. But other nations desperately need vaccines — and public health experts would like to see vaccines used instead of wasted.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/10/98815/alabama-just-tossed-65-000-vaccines-turns-out-it-s/</guid>
+      <pubDate>Tue, 10 Aug 2021 16:40:06 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/10/98815/alabama-just-tossed-65-000-vaccines-turns-out-it-s/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210802_atc_expired_vax_doses.mp3?orgId=1&amp;topicId=1031&amp;d=223&amp;story=1025463260&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3572760" type="audio/mpeg"/>
+      <itunes:duration>223</itunes:duration>
+    </item>
+    <item>
+      <title>As Trusted Voices, Farmers Could Be Key To Boosting Rural Vaccination Rates</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Rural health experts are calling on trusted agricultural leaders — like farmers and ranchers — to use their understanding of science and nudge vaccine-hesitant neighbors to roll up their sleeves.</itunes:summary>
+      <description>Rural health experts are calling on trusted agricultural leaders — like farmers and ranchers — to use their understanding of science and nudge vaccine-hesitant neighbors to roll up their sleeves.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/07/98788/as-trusted-voices-farmers-could-be-key-to-boosting/</guid>
+      <pubDate>Sat, 07 Aug 2021 17:40:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/07/98788/as-trusted-voices-farmers-could-be-key-to-boosting/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2021/08/20210807_wesat_barnyard_science_could_help_boost_rural_covid_vaccination_of_people_.mp3?orgId=1&amp;topicId=1128&amp;d=268&amp;p=7&amp;story=1025412688&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4294157" type="audio/mpeg"/>
+      <itunes:duration>268</itunes:duration>
+    </item>
+    <item>
+      <title>Lyft And Uber Prices Are High. Wait Times Are Long And Drivers Are Scarce</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Lyft and Uber fares are estimated to be nearly 80% higher than pre-pandemic prices in some cities. The companies say a driver shortage is pushing up prices. </itunes:summary>
+      <description>Lyft and Uber fares are estimated to be nearly 80% higher than pre-pandemic prices in some cities. The companies say a driver shortage is pushing up prices. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/07/98782/lyft-and-uber-prices-are-high-wait-times-are-long/</guid>
+      <pubDate>Sat, 07 Aug 2021 11:00:06 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/07/98782/lyft-and-uber-prices-are-high-wait-times-are-long/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210805_me_uber_and_lyft_are_experiencing_a_classic_problem_supply_and_demand.mp3?orgId=1&amp;topicId=1019&amp;d=183&amp;story=1025534409&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2943731" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+    </item>
+    <item>
+      <title>More Clergy Abuse Is Finally Being Prosecuted, No Thanks To The Church, A Lawyer Says</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Over the years, Mitchell Garabedian has represented hundreds of survivors of clergy sexual abuse. His latest is a civil case against former U.S. Cardinal Theodore McCarrick.</itunes:summary>
+      <description>Over the years, Mitchell Garabedian has represented hundreds of survivors of clergy sexual abuse. His latest is a civil case against former U.S. Cardinal Theodore McCarrick.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/06/98776/more-clergy-abuse-is-finally-being-prosecuted-no-t/</guid>
+      <pubDate>Fri, 06 Aug 2021 23:40:11 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/06/98776/more-clergy-abuse-is-finally-being-prosecuted-no-t/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210806_atc_mitchell_garabedian_on_what_it_takes_to_go_against_the_catholic_church.mp3?orgId=1&amp;topicId=1016&amp;d=497&amp;p=2&amp;story=1025500190&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="7958823" type="audio/mpeg"/>
+      <itunes:duration>497</itunes:duration>
+    </item>
+    <item>
+      <title>Restaurants Are Dangling Paid Vacation And Matching 401(k) But Workers Aren't Biting</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>As the U.S. economy continues to rebound from the pandemic recession, lots of people are going back to work — though not as quickly as many employers would like.</itunes:summary>
+      <description>As the U.S. economy continues to rebound from the pandemic recession, lots of people are going back to work — though not as quickly as many employers would like.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/06/98765/restaurants-are-dangling-paid-vacation-and-matchin/</guid>
+      <pubDate>Fri, 06 Aug 2021 11:20:08 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/06/98765/restaurants-are-dangling-paid-vacation-and-matchin/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210806_me_restaurants_are_dangling_paid_vacation_and_matching_401k_but_workers_arent_biting.mp3?orgId=1&amp;topicId=1017&amp;aggIds=812054919&amp;d=295&amp;p=3&amp;story=1025202681&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="4733014" type="audio/mpeg"/>
+      <itunes:duration>295</itunes:duration>
+    </item>
+    <item>
+      <title>'Dark Money' Is Funding The 2020 Election Challenge — And Could Challenge 2024</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>&lt;em&gt;New Yorker &lt;/em&gt;journalist Jane Mayer says a well-funded national movement is "really going all-in on this Trump lie" in an effort to change the way ballots are cast and counted.</itunes:summary>
+      <description>&lt;em&gt;New Yorker &lt;/em&gt;journalist Jane Mayer says a well-funded national movement is "really going all-in on this Trump lie" in an effort to change the way ballots are cast and counted.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/05/98760/dark-money-is-funding-the-2020-election-challenge/</guid>
+      <pubDate>Thu, 05 Aug 2021 20:40:15 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/05/98760/dark-money-is-funding-the-2020-election-challenge/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2021/08/20210805_fa_01.mp3?orgId=427869011&amp;topicId=1014&amp;d=2141&amp;p=13&amp;story=1024741930&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="34182324" type="audio/mpeg"/>
+      <itunes:duration>2141</itunes:duration>
+    </item>
+    <item>
+      <title>Why WHO Is Calling For A Moratorium On COVID Vaccine Boosters </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The director general is asking for a halt for at least two months. His hope is to use all available doses to vaccinate 10% of the population in every country by the end of September.</itunes:summary>
+      <description>The director general is asking for a halt for at least two months. His hope is to use all available doses to vaccinate 10% of the population in every country by the end of September.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/04/98749/why-who-is-calling-for-a-moratorium-on-covid-vacci/</guid>
+      <pubDate>Thu, 05 Aug 2021 01:20:05 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/04/98749/why-who-is-calling-for-a-moratorium-on-covid-vacci/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210804_atc_who_no_boosters_beaubien.mp3?orgId=1&amp;topicId=1031&amp;d=152&amp;story=1019780576&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2444688" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+    </item>
+    <item>
+      <title>Immigrant Activists Say ICE Is Purposely Targeting Them. They're Urging Biden To Help</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>In a new report, activists say ICE systematically retaliates against them for their work, despite the agency's denials. Advocates want the Biden administration to officially forbid the practice. </itunes:summary>
+      <description>In a new report, activists say ICE systematically retaliates against them for their work, despite the agency's denials. Advocates want the Biden administration to officially forbid the practice. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/04/98747/immigrant-activists-say-ice-is-purposely-targeting/</guid>
+      <pubDate>Wed, 04 Aug 2021 22:40:07 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/04/98747/immigrant-activists-say-ice-is-purposely-targeting/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/08/20210804_atc_immigrant_activists_ask_biden_administration_to_ban_ice_from_retaliating_against_them.mp3?orgId=1&amp;topicId=1003&amp;d=227&amp;p=2&amp;story=1024348198&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3639633" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+    </item>
+    <item>
+      <title>Students Need To Be In Classrooms, With Masks, This Fall, Education Secretary Says</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Students learn best in classrooms, U.S. Education Secretary Miguel Cardona tells NPR — but "we have to make sure that we're following mitigation strategies."</itunes:summary>
+      <description>Students learn best in classrooms, U.S. Education Secretary Miguel Cardona tells NPR — but "we have to make sure that we're following mitigation strategies."</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/08/02/98714/students-need-to-be-in-classrooms-with-masks-this/</guid>
+      <pubDate>Mon, 02 Aug 2021 11:20:22 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/08/02/98714/students-need-to-be-in-classrooms-with-masks-this/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/08/20210802_me_students_need_to_be_in_classrooms_with_masks_this_fall_education_secretary_says.mp3?orgId=1&amp;topicId=1013&amp;aggIds=812054919&amp;d=486&amp;p=3&amp;story=1022429844&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="7787042" type="audio/mpeg"/>
+      <itunes:duration>486</itunes:duration>
+    </item>
+    <item>
+      <title>Opinion: New Jersey Renames Its Rest Stops As A Nation Rethinks Monuments</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>New Jersey will honor nine of its most illustrious citizens by slapping their names on rest stops along the turnpike. Scott Simon muses over what becomes a legend most.</itunes:summary>
+      <description>New Jersey will honor nine of its most illustrious citizens by slapping their names on rest stops along the turnpike. Scott Simon muses over what becomes a legend most.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/31/98697/opinion-new-jersey-renames-its-rest-stops-as-a-nat/</guid>
+      <pubDate>Sat, 31 Jul 2021 14:20:13 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/31/98697/opinion-new-jersey-renames-its-rest-stops-as-a-nat/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2021/07/20210731_wesat_opinion_new_jersey_renames_its_rest_stops_as_a_nation_rethinks_monuments.mp3?orgId=1&amp;topicId=1057&amp;aggIds=4495795&amp;d=148&amp;p=7&amp;story=1023004266&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="2381994" type="audio/mpeg"/>
+      <itunes:duration>148</itunes:duration>
+    </item>
+    <item>
+      <title>Why Sweat Is A Human Superpower</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Sweat is an "evolutionary marvel," says Sarah Everts, the author of&lt;em&gt; The Joy of Sweat.&lt;/em&gt; In her new book, Everts delves into the science of perspiration and how this trait has enabled humans to thrive.</itunes:summary>
+      <description>Sweat is an "evolutionary marvel," says Sarah Everts, the author of&lt;em&gt; The Joy of Sweat.&lt;/em&gt; In her new book, Everts delves into the science of perspiration and how this trait has enabled humans to thrive.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/30/98686/why-sweat-is-a-human-superpower/</guid>
+      <pubDate>Fri, 30 Jul 2021 18:20:09 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/30/98686/why-sweat-is-a-human-superpower/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/dailyscience/2021/07/20210727_dailyscience_sweat2.mp3?orgId=1&amp;topicId=1128&amp;aggIds=771339648&amp;d=747&amp;story=1022546464&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="11966862" type="audio/mpeg"/>
+      <itunes:duration>747</itunes:duration>
+    </item>
+    <item>
+      <title>A New Alzheimer's Drug Comes With Lots Of Questions About How To Use It</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Weeks after the Food and Drug Administration approved the Alzheimer's drug Aduhelm, doctors are struggling to figure out who should get the drug and how to use it safely. </itunes:summary>
+      <description>Weeks after the Food and Drug Administration approved the Alzheimer's drug Aduhelm, doctors are struggling to figure out who should get the drug and how to use it safely. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/29/98668/a-new-alzheimer-s-drug-comes-with-lots-of-question/</guid>
+      <pubDate>Thu, 29 Jul 2021 20:00:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/29/98668/a-new-alzheimer-s-drug-comes-with-lots-of-question/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/07/20210728_atc_medical_experts_are_figuring_out_how_to_safely_use_controversial_alzheimers_drug.mp3?orgId=1&amp;topicId=1128&amp;d=218&amp;story=1022263054&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3492511" type="audio/mpeg"/>
+      <itunes:duration>218</itunes:duration>
+    </item>
+    <item>
+      <title>A Texas GOP Bill Would Make It Harder For Nonprofits To Bail People Out Of Jail </title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>People such as Tonya Galvan and Hervis Rogers, a man accused of voting illegally, would likely be forced to stay behind bars much longer if this Republican bill becomes law.</itunes:summary>
+      <description>People such as Tonya Galvan and Hervis Rogers, a man accused of voting illegally, would likely be forced to stay behind bars much longer if this Republican bill becomes law.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/29/98658/a-texas-gop-bill-would-make-it-harder-for-nonprofi/</guid>
+      <pubDate>Thu, 29 Jul 2021 11:20:10 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/29/98658/a-texas-gop-bill-would-make-it-harder-for-nonprofi/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/07/20210729_me_a_texas_gop_bill_would_make_it_harder_for_nonprofits_to_bail_people_out_of_jail_.mp3?orgId=220&amp;topicId=1014&amp;d=223&amp;p=3&amp;story=1021871365&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3574014" type="audio/mpeg"/>
+      <itunes:duration>223</itunes:duration>
+    </item>
+    <item>
+      <title>COVID Symptoms May Linger In Some Vaccinated People Who Get Infected, Study Finds</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>A small Israeli study of vaccinated health care workers found that a handful who got infected developed headaches, muscle pain, fatigue and other symptoms of long COVID that lasted for weeks. </itunes:summary>
+      <description>A small Israeli study of vaccinated health care workers found that a handful who got infected developed headaches, muscle pain, fatigue and other symptoms of long COVID that lasted for weeks. </description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/28/98647/covid-symptoms-may-linger-in-some-vaccinated-peopl/</guid>
+      <pubDate>Wed, 28 Jul 2021 23:40:16 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/28/98647/covid-symptoms-may-linger-in-some-vaccinated-peopl/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/07/20210728_atc_vaccine_breakthroughs.mp3?orgId=1&amp;topicId=1128&amp;d=227&amp;p=2&amp;story=1021888033&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3638797" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+    </item>
+    <item>
+      <title>Simone Biles Highlights The Unique Stresses Athletes Feel At The Tokyo Olympics</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>Biles' teammates applauded her decision to take care of her mental well-being. But she's not the only athlete who has spoken about the pressures of performing at the Games.</itunes:summary>
+      <description>Biles' teammates applauded her decision to take care of her mental well-being. But she's not the only athlete who has spoken about the pressures of performing at the Games.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/28/98634/simone-biles-highlights-the-unique-stresses-athlet/</guid>
+      <pubDate>Wed, 28 Jul 2021 16:00:04 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/28/98634/simone-biles-highlights-the-unique-stresses-athlet/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/07/20210728_me_olympics_simone_biles_mental_health.mp3?orgId=1&amp;topicId=1055&amp;d=233&amp;story=1021670837&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3740361" type="audio/mpeg"/>
+      <itunes:duration>233</itunes:duration>
+    </item>
+    <item>
+      <title>How An Altered Strand Of DNA Can Cause Malaria-Spreading Mosquitoes To Self-Destruct</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>For the first time, scientists have shown that a new kind of genetic engineering can crash populations of malaria-spreading mosquitoes.</itunes:summary>
+      <description>For the first time, scientists have shown that a new kind of genetic engineering can crash populations of malaria-spreading mosquitoes.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/28/98631/how-an-altered-strand-of-dna-can-cause-malaria-spr/</guid>
+      <pubDate>Wed, 28 Jul 2021 11:20:13 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/28/98631/how-an-altered-strand-of-dna-can-cause-malaria-spr/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/07/20210728_me_how_an_altered_strand_of_dna_can_cause_malaria-spreading_mosquitoes_to_self-destruct.mp3?orgId=1&amp;topicId=1031&amp;d=226&amp;p=3&amp;story=1020932493&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3629602" type="audio/mpeg"/>
+      <itunes:duration>226</itunes:duration>
+    </item>
+    <item>
+      <title>You Might Consider Opting Out Of The Child Tax Credit. Here's Why</title>
+      <itunes:author>KPCC 89.3 | Southern California Public Radio</itunes:author>
+      <itunes:summary>The first monthly enhanced child tax credit payment has landed, but some families are now opting out. Here's how to decide whether it makes sense for you.</itunes:summary>
+      <description>The first monthly enhanced child tax credit payment has landed, but some families are now opting out. Here's how to decide whether it makes sense for you.</description>
+      <guid isPermaLink="true">https://www.scpr.org/news/2021/07/28/98630/you-might-consider-opting-out-of-the-child-tax-cre/</guid>
+      <pubDate>Wed, 28 Jul 2021 11:20:12 GMT</pubDate>
+      <itunes:keywords>news, kpcc, scpr</itunes:keywords>
+      <link>https://www.scpr.org/news/2021/07/28/98630/you-might-consider-opting-out-of-the-child-tax-cre/</link>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2021/07/20210728_me_you_might_consider_opting_out_of_the_child_tax_credit_heres_why.mp3?orgId=1&amp;topicId=1006&amp;d=236&amp;p=3&amp;story=1021285459&amp;ft=nprml&amp;f=1001%2C1007%2C93568166%2C102920358%2C103537970%2C173754155%2C311911180&amp;context=news" length="3782993" type="audio/mpeg"/>
+      <itunes:duration>236</itunes:duration>
+    </item>
+  </channel>
+</rss>
+e="audio/mpeg"/>
+      <itunes:duration>226</itunes:duration>
+    </item>
+  </channel>
+</rss>
